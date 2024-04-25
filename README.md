@@ -1,5 +1,7 @@
 Screen recording of project: https://www.youtube.com/watch?v=bZ0lpdQkZW0 
+
 DATA1700Oblig3
+
 Html file is set up to mimic the look of the assignment example, but in English. Made use of html ids to be used by javascript file. Each input field in the html has a span tag in the color red with an id that javascript can call upon to make the field visible with an error message if applicable. Used a table for the four last input fields for uniformity. There are two html buttons that call upon functions in the javascript file. Under the subheader "All tickets" will be shown all gathered information from each ticket purchased.
 
 The javascript file contains the following:
